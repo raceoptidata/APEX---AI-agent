@@ -1,4 +1,4 @@
-![RaceOptiData Banner](images/RaceOptiData_Banner.jpg)
+![APEX - RaceOptiData AI Assistant](images/AskAPEX.png)
 
 # APEX — RaceOptiData AI Agent
 
